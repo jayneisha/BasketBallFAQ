@@ -1,0 +1,2 @@
+rootProject.name='BasketBallFAQ'
+include ':app'

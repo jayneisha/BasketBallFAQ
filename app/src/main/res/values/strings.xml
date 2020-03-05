@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BasketBallFAQ</string>
+    <string name="app_desc">Basket Ball FAQs</string>
+    <string-array name="questions">
+        <item>Who invented basketball?</item>
+        <item>Six players won the NBA scoring title for three or more consecutive years. Who were they?</item>
+        <item>What is Hot sauce&quot;s real name?</item>
+        <item>Initially the &quot;basketball&quot; was what object?</item>
+        <item>What franchise went through a 45 year drought before winning an NBA championship?</item>
+        <item>What were the first baskets made of?</item>
+        <item>The famous street ball court, Rucker Park, is in which New York neighborhood?</item>
+        <item>How many rules did the game initially have?</item>
+        <item>In 1976&#8211;77 which franchise traded away Bob McAdoo and Moses Malone?</item>
+        <item>What is Earl Manigult&quot;s nickname?</item>
+    </string-array>
+    <string-array name="answers">
+        <item>James Naismith</item>
+        <item>Micheal Jordan, Wilt Chamberlain, George Gervin, Neil Johnson, Bob McAdoo, George Mikan</item>
+        <item>Phillip Champion</item>
+        <item>A Soccer ball</item>
+        <item>Sacramento Kings</item>
+        <item>Peach baskets</item>
+        <item>Harlem</item>
+        <item>13</item>
+        <item>Buffalo Braves</item>
+        <item>Goat</item>
+    </string-array>
+</resources>
